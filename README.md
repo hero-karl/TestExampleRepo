@@ -1,3 +1,2 @@
 # TestExampleRepo
-just for testing purposes
-readme finished
+just for testing purposes - no idea why I am writing this!
